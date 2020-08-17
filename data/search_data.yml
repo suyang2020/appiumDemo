@@ -1,0 +1,80 @@
+test_search:
+    test_search_001:
+      eid: '13068219910220348X'
+      tel: '18510626522'
+      code: '123123'
+      message: 'success'
+      screen_name: 'test_search_001'
+    test_search_002:
+      eid: '130682199102200002'
+      tel: '13600000000'
+      code: '123123'
+      message: 'success'
+      screen_name: 'test_search_002'
+    test_search_003:
+      eid: '13068219910220348a'
+      tel: '18510626522'
+      code: '123123'
+      message: '请输入正确的身份证号'
+      screen_name: 'test_search_003'
+    test_search_004:
+      eid: '13068219910220348'
+      tel: '18510626522'
+      code: '123123'
+      message: '请输入正确的身份证号'
+      screen_name: 'test_search_004'
+    test_search_005:
+      eid: '13068219910220348#'
+      tel: '18510626522'
+      code: '123123'
+      message: '请输入正确的身份证号'
+      screen_name: 'test_search_005'
+    test_search_006:
+      eid: '130682199102203481'
+      tel: '1851062652'
+      code: '123123'
+      message: '请输入正确的手机号'
+      screen_name: 'test_search_006'
+    test_search_007:
+      eid: '130682199102203485'
+      tel: '1851062652o'
+      code: '123123'
+      message: '请输入正确的手机号'
+      screen_name: 'test_search_007'
+    test_search_008:
+      eid: '130682199102203485'
+      tel: '1851062652.'
+      code: '123123'
+      message: '请输入正确的手机号'
+      screen_name: 'test_search_008'
+    test_search_009:
+      eid: '130682199102203485'
+      tel: '18510626522'
+      code: '12312'
+      message: '请输入正确的验证码'
+      screen_name: 'test_search_009'
+    test_search_010:
+      eid: '130682199102203485'
+      tel: '18510626522'
+      code: '12312o'
+      message: '请输入正确的验证码'
+      screen_name: 'test_search_010'
+    test_search_011:
+      eid: ''
+      tel: '18510626522'
+      code: '123122'
+      message: '请输入正确的身份证号'
+      screen_name: 'test_search_011'
+    test_search_012:
+      eid: '130682199102203485'
+      tel: ''
+      code: '123123'
+      message: '请输入正确的手机号'
+      screen_name: 'test_search_012'
+    test_search_013:
+      eid: '130682199102203485'
+      tel: '18510626522'
+      code: ''
+      message: '请输入正确的验证码'
+      screen_name: 'test_search_013'
+
